@@ -1,0 +1,5 @@
+env
+.env
+guardian-digital-corpsite-db90a9798c03.json
+*.csv
+node_modules
